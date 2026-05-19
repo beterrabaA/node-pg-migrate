@@ -1,8 +1,8 @@
-ignoredBuiltDependencies:
-  - cpu-features
-  - esbuild
-  - protobufjs
-  - ssh2
+allowBuilds:
+  cpu-features: false
+  esbuild: false
+  protobufjs: false
+  ssh2: false
 
-onlyBuiltDependencies:
-  - unrs-resolver
+overrides:
+  'vitest>vite': '7.3.1'
