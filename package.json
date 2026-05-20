@@ -99,7 +99,7 @@
     "@vitest/coverage-v8": "4.1.6",
     "@vitest/ui": "4.1.6",
     "config": "4.4.1",
-    "dotenv": "17.3.1",
+    "dotenv": "17.4.2",
     "dotenv-expand": "12.0.3",
     "node-pg-migrate": "file:.",
     "npm-run-all2": "8.0.4",
